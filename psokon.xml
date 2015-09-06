@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>バーレスクなーの!!!!</title>
+        <link>http://www.example.com/podcasts/everything/index.html</link>
+        <language>ja-jp</language>
+        <copyright>&#x2117; &amp; &#xA9; 2014 John Doe &amp; Family</copyright>
+        <itunes:subtitle>＊＊＊＊＊＊ばーれすく＊＊＊＊＊＊</itunes:subtitle>
+        <itunes:author>John Doe</itunes:author>
+        <itunes:summary>podcastをはじめるためのTESTです</itunes:summary>
+        <description>ニート　OR　年収０円のCEO</description>
+        <itunes:owner>
+            <itunes:name>John Doe</itunes:name>
+            <itunes:email>john.doe@example.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://dl.dropboxusercontent.com/u/57646309/ayapasoyukipaso.jpg" />
+        <itunes:category text="Technology">
+            <itunes:category text="Gadgets"/>
+        </itunes:category>
+        <itunes:category text="TV &amp; Film"/>
+        <item>
+            <title>ばーれすくてな人生のはなし</title>
+            <itunes:author>John Doe</itunes:author>
+            <itunes:subtitle>食卓のスパイス入門編</itunes:subtitle>
+            <itunes:summary>してください！</itunes:summary>
+            <itunes:image href="https://dl.dropboxusercontent.com/u/57646309/ayapasoyukipaso.jpg" />
+            <enclosure url="https://dl.dropboxusercontent.com/u/57646309/podcast_test.m4a" length="8727310" type="audio/x-m4a" />
+            <guid>http://example.com/podcasts/archive/aae20140615.m4a</guid>
+            <pubDate>Sat, 5 Sep 2015 18:00:00 GMT</pubDate>
+            <itunes:duration>7:04</itunes:duration>
+        </item>
+    </channel>
+</rss>
