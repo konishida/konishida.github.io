@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <title>AyaPasokon*YukiPasokon</title>
+        <title>ラジオおおおおお</title>
         <link>http://www.example.com/podcasts/everything/index.html</link>
         <language>ja-jp</language>
         <copyright>&#x2117; &amp; &#xA9; 2014 John Doe &amp; Family</copyright>
         <itunes:subtitle>＊＊＊＊＊＊ばーれすく＊＊＊＊＊＊</itunes:subtitle>
         <itunes:author>John Doe</itunes:author>
         <itunes:summary>podcastをはじめるためのTESTです</itunes:summary>
-        <description>ニートのふり</description>
+        <description>らららららら</description>
         <itunes:owner>
             <itunes:name>John Doe</itunes:name>
             <itunes:email>john.doe@example.com</itunes:email>
