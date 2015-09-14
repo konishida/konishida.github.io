@@ -2,12 +2,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>CEOへの道</title>
-        <link>http://www.example.com/podcasts/everything/index.html</link>
+        <link>https://konishida.github.io/podcast/psokon.xml</link>
         <language>ja-jp</language>
         <copyright>&#x2117; &amp; &#xA9; 2014 John Doe &amp; Family</copyright>
         <itunes:subtitle>＊＊＊＊＊＊ばーれすく＊＊＊＊＊＊</itunes:subtitle>
-        <itunes:author>John Doe</itunes:author>
-        <itunes:summary>podcastをはじめるためのTESTです</itunes:summary>
+        <itunes:author>小西田</itunes:author>
+        <itunes:summary>脱サラ計画をしている３年目女子社員２人組の実録</itunes:summary>
         <description>らららららら</description>
         <itunes:owner>
             <itunes:name>小西田</itunes:name>
@@ -21,8 +21,8 @@
         <item>
             <title>脱サラ計画</title>
             <itunes:author>小西田</itunes:author>
-            <itunes:subtitle>はらいた</itunes:subtitle>
-            <itunes:summary>してください！</itunes:summary>
+            <itunes:subtitle>脱サラ OL 女子社員 IT Tech CEO</itunes:subtitle>
+            <itunes:summary>脱サラ OL 女子社員 IT Tech CEO</itunes:summary>
             <itunes:image href="https://dl.dropboxusercontent.com/u/57646309/ayapasoyukipaso.jpg" />
             <enclosure url="https://konishida.github.io/podcast/ayapaso.m4a" length="8727310" type="audio/x-m4a" />
             <guid>https://konishida.github.io/podcast/ayapaso.m4a</guid>
