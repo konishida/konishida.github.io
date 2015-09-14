@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <title>脱サラ計画</title>
+        <title>CEOへの道</title>
         <link>http://www.example.com/podcasts/everything/index.html</link>
         <language>ja-jp</language>
         <copyright>&#x2117; &amp; &#xA9; 2014 John Doe &amp; Family</copyright>
@@ -10,7 +10,7 @@
         <itunes:summary>podcastをはじめるためのTESTです</itunes:summary>
         <description>らららららら</description>
         <itunes:owner>
-            <itunes:name>John Doe</itunes:name>
+            <itunes:name>小西田</itunes:name>
             <itunes:email>john.doe@example.com</itunes:email>
         </itunes:owner>
         <itunes:image href="https://konishida.github.io/podcast/ayapasoyukipaso.jpg" />
@@ -19,8 +19,8 @@
         </itunes:category>
         <itunes:category text="TV &amp; Film"/>
         <item>
-            <title>ばーれすくてなはなし</title>
-            <itunes:author>John Doe</itunes:author>
+            <title>脱サラ計画</title>
+            <itunes:author>小西田</itunes:author>
             <itunes:subtitle>はらいた</itunes:subtitle>
             <itunes:summary>してください！</itunes:summary>
             <itunes:image href="https://dl.dropboxusercontent.com/u/57646309/ayapasoyukipaso.jpg" />
